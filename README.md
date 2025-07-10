@@ -2,7 +2,10 @@
 Master interviews with an intelligent, full stack app built on the MERN stack.
 
 🌐[Live Demo](https://interview-prep-mmsp.vercel.app)
+
+
 ✨ Features
+
 ✅ Secure Auth – Register & log in with JWT-based authentication
 ✅ Role-Based Sessions – Get tailored questions by job role & experience
 ✅ AI-Powered Q&A – Auto-generate high-quality questions & answers (Gemini API)
