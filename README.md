@@ -1,8 +1,7 @@
 🚀 AI-Powered Interview Prep App (MERN)
 Master interviews with an intelligent, full stack app built on the MERN stack.
 
-🌐 Live demo: interview-prep.vercel.link
-
+🌐[Live Demo](https://interview-prep-mmsp.vercel.app)
 ✨ Features
 ✅ Secure Auth – Register & log in with JWT-based authentication
 ✅ Role-Based Sessions – Get tailored questions by job role & experience
